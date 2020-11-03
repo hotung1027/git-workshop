@@ -1,6 +1,6 @@
 
-def helllo():
-    print("Hello gitworkshop")
+def hello():
+    print("Hello World")
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     hello()
